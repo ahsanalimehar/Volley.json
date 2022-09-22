@@ -1,0 +1,182 @@
+{
+  "status": true,
+  "message": "Data fetched successfully!",
+  "data": [
+    {
+      "id": 1,
+      "name": "Ahsan Ali",
+      "gender": "Male",
+      "age": 21,
+      "email": "ahsanali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/ah.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ahsan Ali",
+      "gender": "Male",
+      "age": 21,
+      "email": "ahsan@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/WhatsApp-Image-2021-09-23-at-10.49.07-AM.th.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Abrar Ali",
+      "gender": "Male",
+      "age": 22,
+      "email": "abrarali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/ab.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ansar Ali",
+      "gender": "Male",
+      "age": 23,
+      "email": "ansarali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/an.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Adnan Shiekh",
+      "gender": "Male",
+      "age": 20,
+      "email": "adnanali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/s.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mohsin Ali",
+      "gender": "Male",
+      "age": 24,
+      "email": "mohsinali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/m.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sir Nwazish",
+      "gender": "Male",
+      "age": 27,
+      "email": "sirnwazish@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/nw.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Nwazish Ali",
+      "gender": "Male",
+      "age": 27,
+      "email": "nwazishali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/n.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ahsan Ali",
+      "gender": "Male",
+      "age": 21,
+      "email": "ahsanali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/ah.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Ahsan Ali",
+      "gender": "Male",
+      "age": 21,
+      "email": "ahsan@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/WhatsApp-Image-2021-09-23-at-10.49.07-AM.th.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Abrar Ali",
+      "gender": "Male",
+      "age": 22,
+      "email": "abrarali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/ab.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ansar Ali",
+      "gender": "Male",
+      "age": 23,
+      "email": "ansarali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/an.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Adnan Shiekh",
+      "gender": "Male",
+      "age": 20,
+      "email": "adnanali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/s.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Mohsin Ali",
+      "gender": "Male",
+      "age": 24,
+      "email": "mohsinali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/m.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Ahsan Ali",
+      "gender": "Male",
+      "age": 21,
+      "email": "ahsanali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/ah.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Ahsan Ali",
+      "gender": "Male",
+      "age": 21,
+      "email": "ahsan@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/WhatsApp-Image-2021-09-23-at-10.49.07-AM.th.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Abrar Ali",
+      "gender": "Male",
+      "age": 22,
+      "email": "abrarali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/ab.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Ansar Ali",
+      "gender": "Male",
+      "age": 23,
+      "email": "ansarali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/an.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Adnan Shiekh",
+      "gender": "Male",
+      "age": 20,
+      "email": "adnanali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/s.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Mohsin Ali",
+      "gender": "Male",
+      "age": 24,
+      "email": "mohsinali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/m.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Sir Nwazish",
+      "gender": "Male",
+      "age": 27,
+      "email": "sirnwazish@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/nw.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Nwazish Ali",
+      "gender": "Male",
+      "age": 27,
+      "email": "nwazishali@gmail.com",
+      "imgURL": "https://tinypic.host/images/2022/09/22/n.jpg"
+    }
+  ]
+}
